@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-joonas.litmanen%40tuta.io-blue?style=flat-square&logo=gmail)](mailto:joonas.litmanen@tuta.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jlitmanen-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/litmanenj/)
-
+[![Install](https://img.shields.io/badge/Install-install.sh-E1622F?style=flat-square&logo=arch-linux)](https://gist.github.com/jlitmanen/1761e496abf0da058c5c445f4083b907/raw/install.sh)
 ---
 
 ### 📖 About Me
