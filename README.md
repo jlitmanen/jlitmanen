@@ -4,7 +4,7 @@
 📍 Based in Kuopio, Finland
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jlitmanen-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/litmanenj/)
-[![Install](https://img.shields.io/badge/Install-install.sh-E1622F?style=flat-square&logo=arch-linux)](https://urly.fi/45gK)
+
 ---
 
 ### 📖 About Me
